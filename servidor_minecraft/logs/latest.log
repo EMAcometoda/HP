@@ -2056,3 +2056,91 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 13:31:42.130] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.74301528930664) to NORMAL (avg. 40.79572296142578)
 [16Jul2025 13:31:43.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.03917035) to MEDIUM (avg. 45.2113855)
 [16Jul2025 13:31:49.578] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.79572296142578) to MEDIUM (avg. 46.70883560180664)
+[16Jul2025 13:31:57.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.70883560180664) to NORMAL (avg. 41.424537658691406)
+[16Jul2025 13:32:12.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.424537658691406) to LOW (avg. 34.70497512817383)
+[16Jul2025 13:32:41.973] [Server thread/INFO] [APTweaks(Player)/]: Protected Player XxLarryGoatxX was successful validated after 67 secs.
+[16Jul2025 13:32:41.973] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player XxLarryGoatxX!
+[16Jul2025 13:35:20.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Who You Gonna Call?]
+[16Jul2025 13:36:34.623] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.24273681640625) to NORMAL (avg. 44.587242126464844)
+[16Jul2025 13:36:42.171] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.587242126464844) to VERY_HIGH (avg. 55.38961410522461)
+[16Jul2025 13:36:49.517] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:49.739] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.38961410522461) to HIGH (avg. 49.146331787109375)
+[16Jul2025 13:36:52.278] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:52.278] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:52.279] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:52.279] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:53.301] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:53.302] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:53.302] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:53.302] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:36:55.125] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58092, l='ServerLevel[world]', x=-1794.45, y=14.32, z=523.69, removed=DISCARDED]
+[16Jul2025 13:36:55.256] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58094, l='ServerLevel[world]', x=-1794.69, y=14.24, z=524.34, removed=DISCARDED]
+[16Jul2025 13:36:55.348] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58091, l='ServerLevel[world]', x=-1795.45, y=14.29, z=524.54, removed=DISCARDED]
+[16Jul2025 13:36:55.767] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58081, l='ServerLevel[world]', x=-1796.61, y=14.16, z=521.61, removed=DISCARDED]
+[16Jul2025 13:36:55.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58085, l='ServerLevel[world]', x=-1797.38, y=14.39, z=522.46, removed=DISCARDED]
+[16Jul2025 13:36:55.971] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58082, l='ServerLevel[world]', x=-1797.68, y=14.31, z=521.52, removed=DISCARDED]
+[16Jul2025 13:36:55.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58090, l='ServerLevel[world]', x=-1797.69, y=14.26, z=524.41, removed=DISCARDED]
+[16Jul2025 13:36:56.206] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58083, l='ServerLevel[world]', x=-1798.33, y=14.56, z=520.60, removed=DISCARDED]
+[16Jul2025 13:36:56.207] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58086, l='ServerLevel[world]', x=-1798.45, y=14.33, z=521.43, removed=DISCARDED]
+[16Jul2025 13:36:56.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58093, l='ServerLevel[world]', x=-1798.51, y=14.22, z=524.64, removed=DISCARDED]
+[16Jul2025 13:37:04.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.146331787109375) to NORMAL (avg. 44.39503479003906)
+[16Jul2025 13:37:27.096] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.111778259277344) to MEDIUM (avg. 46.1192512512207)
+[16Jul2025 13:37:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.1192512512207) to LOW (avg. 36.58290100097656)
+[16Jul2025 13:37:57.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.58290100097656) to NORMAL (avg. 45.23256301879883)
+[16Jul2025 13:38:12.114] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.83143615722656) to HIGH (avg. 49.0302734375)
+[16Jul2025 13:38:27.261] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.0302734375) to NORMAL (avg. 43.68848419189453)
+[16Jul2025 13:38:30.605] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:30.605] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:30.605] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:30.627] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.399] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.400] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.400] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.517] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.518] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.518] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:37.519] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.68848419189453) to LOW (avg. 33.78663635253906)
+[16Jul2025 13:38:49.595] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.78663635253906) to MEDIUM (avg. 46.66282653808594)
+[16Jul2025 13:38:50.723] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.724] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.724] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.724] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.725] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.904] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.904] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.904] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:50.905] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:38:57.075] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.66282653808594) to NORMAL (avg. 44.999324798583984)
+[16Jul2025 13:39:04.599] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.999324798583984) to MEDIUM (avg. 47.19865036010742)
+[16Jul2025 13:39:05.943] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.64767207) to HIGH (avg. 46.70387452000001)
+[16Jul2025 13:39:14.822] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:14.823] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:14.823] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:14.823] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:18.519] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:18.520] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:18.520] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:18.521] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:18.521] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:39:19.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.19865036010742) to HIGH (avg. 52.607147216796875)
+[16Jul2025 13:39:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.871360778808594) to LOW (avg. 37.35048294067383)
+[16Jul2025 13:39:57.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.35048294067383) to MEDIUM (avg. 48.287452697753906)
+[16Jul2025 13:40:04.593] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.287452697753906) to NORMAL (avg. 40.5193977355957)
+[16Jul2025 13:40:27.263] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.80314636230469) to HIGH (avg. 52.434600830078125)
+[16Jul2025 13:40:34.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.434600830078125) to NORMAL (avg. 42.16933059692383)
+[16Jul2025 13:41:04.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.36686706542969) to LOW (avg. 38.48289489746094)
+[16Jul2025 13:41:27.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.88055419921875) to NORMAL (avg. 40.65010070800781)
+[16Jul2025 13:41:34.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.65010070800781) to LOW (avg. 39.5458984375)
+[16Jul2025 13:41:42.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.5458984375) to VERY_HIGH (avg. 57.90743637084961)
+[16Jul2025 13:41:49.625] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.90743637084961) to MEDIUM (avg. 47.45054626464844)
+[16Jul2025 13:41:51.807] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.807] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.807] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.808] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.818] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.818] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.818] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.819] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:41:51.819] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 13:42:04.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.45054626464844) to LOW (avg. 39.251251220703125)
