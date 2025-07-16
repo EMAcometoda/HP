@@ -3014,3 +3014,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 16:33:19.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
 [16Jul2025 16:33:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
 [16Jul2025 16:33:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.928688049316406) to LOW (avg. 30.604354858398438)
+[16Jul2025 16:41:45.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho was kicked for floating too long!
+[16Jul2025 16:41:46.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[16Jul2025 16:41:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[16Jul2025 16:41:46.046] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
