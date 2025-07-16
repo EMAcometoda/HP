@@ -14409,3 +14409,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 13:58:34.686] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.29534149169922) to MEDIUM (avg. 47.564605712890625)
 [16Jul2025 13:58:49.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.564605712890625) to LOW (avg. 33.052032470703125)
 [16Jul2025 14:01:34.309] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.32 and blood value 15 for entity minecraft:sniffer
+[16Jul2025 14:02:34.653] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.25260543823242) to VERY_HIGH (avg. 57.05314636230469)
+[16Jul2025 14:02:49.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.05314636230469) to LOW (avg. 35.27265548706055)
+[16Jul2025 14:03:26.504] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 14:03:26.553] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 14:03:26.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 14:03:26.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 14:04:17.290] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Jul2025 14:04:17.290] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Jul2025 14:04:34.574] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.65686798095703) to NORMAL (avg. 40.2922248840332)
+[16Jul2025 14:04:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.2922248840332) to LOW (avg. 38.02185821533203)
+[16Jul2025 14:08:18.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/368009, l='ServerLevel[world]', x=-2958.55, y=66.25, z=204.65] died: Honeyed Archer suffocated in a wall
+[16Jul2025 14:08:26.501] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 14:08:26.549] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 14:08:26.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 14:08:26.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 14:09:19.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.13837814331055) to NORMAL (avg. 40.96393585205078)
+[16Jul2025 14:09:34.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.96393585205078) to LOW (avg. 37.825157165527344)
+[16Jul2025 14:10:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.70529556274414) to NORMAL (avg. 41.49138259887695)
+[16Jul2025 14:10:57.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.49138259887695) to LOW (avg. 35.848087310791016)
+[16Jul2025 14:11:27.098] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.958946228027344) to NORMAL (avg. 45.14779281616211)
+[16Jul2025 14:11:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.14779281616211) to LOW (avg. 36.76950454711914)
