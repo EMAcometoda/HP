@@ -955,9 +955,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-16 18:45:28 +0000",
       "log_spam_fixer": "2025-07-16 02:24:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
@@ -4407,7 +4408,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-07-16 04:44:48 +0000"
+      "minecraft:pillager": "2025-07-16 04:44:48 +0000",
+      "minecraft:zombie": "2025-07-16 18:42:43 +0000"
     },
     "done": false
   },
@@ -4876,6 +4878,24 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-16 05:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 18:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 18:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 18:38:56 +0000"
     },
     "done": true
   },
