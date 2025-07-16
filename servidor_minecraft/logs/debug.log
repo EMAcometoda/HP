@@ -17156,3 +17156,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 18:05:25.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 18:05:25.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 18:05:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.141420364379883) to LOW (avg. 22.591697692871094)
+[16Jul2025 18:08:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.0955810546875) to VERY_LOW (avg. 19.633562088012695)
+[16Jul2025 18:08:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.633562088012695) to LOW (avg. 21.026947021484375)
+[16Jul2025 18:08:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.026947021484375) to VERY_LOW (avg. 19.64107894897461)
+[16Jul2025 18:08:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.64107894897461) to LOW (avg. 20.731107711791992)
+[16Jul2025 18:09:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.82351303100586) to VERY_LOW (avg. 19.17030143737793)
+[16Jul2025 18:10:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.17030143737793) to LOW (avg. 21.047147750854492)
+[16Jul2025 18:10:25.875] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 18:10:25.922] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 18:10:25.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:10:25.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:10:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.789642333984375) to VERY_LOW (avg. 19.816207885742188)
+[16Jul2025 18:11:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.816207885742188) to LOW (avg. 20.840192794799805)
+[16Jul2025 18:14:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.311180114746094) to VERY_LOW (avg. 19.538686752319336)
+[16Jul2025 18:14:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.538686752319336) to LOW (avg. 20.291147232055664)
+[16Jul2025 18:15:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.027698516845703) to VERY_LOW (avg. 19.88504981994629)
+[16Jul2025 18:15:25.871] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 18:15:25.921] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 18:15:25.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:15:25.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:15:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.88504981994629) to LOW (avg. 24.258132934570312)
+[16Jul2025 18:15:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.258132934570312) to VERY_LOW (avg. 19.577722549438477)
+[16Jul2025 18:15:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.577722549438477) to LOW (avg. 20.798053741455078)
+[16Jul2025 18:16:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.798053741455078) to VERY_LOW (avg. 19.91505241394043)
+[16Jul2025 18:16:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.91505241394043) to LOW (avg. 21.465646743774414)
