@@ -5280,23 +5280,11 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-16 15:43:36 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
@@ -5328,9 +5316,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-07-16 16:14:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-16 16:14:45 +0000"
     },
     "done": true
   },
@@ -5366,9 +5366,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
+      "main": "2025-07-16 15:49:56 +0000",
+      "flower": "2025-07-16 15:54:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -5382,9 +5383,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:01:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-16 16:02:57 +0000"
     },
     "done": true
   },
@@ -5472,9 +5491,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 16:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 16:05:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
     },
     "done": true
   },
@@ -5495,12 +5532,6 @@
       "crafting_table": "2025-07-16 15:13:20 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -5532,12 +5563,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
@@ -5550,12 +5575,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-16 15:01:10 +0000"
@@ -5565,6 +5584,12 @@
   "terramity:excalibur_advancement": {
     "criteria": {
       "excalibur_advancement_0": "2025-07-16 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
     },
     "done": true
   },
@@ -5628,6 +5653,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-16 16:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
@@ -5640,9 +5677,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-16 15:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-16 16:14:45 +0000"
     },
     "done": true
   },
@@ -5670,11 +5719,11 @@
     },
     "done": true
   },
-  "vampirism:vampire/extra_storage": {
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
     "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
+      "has_planks": "2025-07-16 16:00:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
@@ -5697,6 +5746,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
     },
     "done": true
   },
@@ -5730,6 +5785,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-07-16 15:58:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-07-16 15:23:33 +0000"
@@ -5742,23 +5803,23 @@
     },
     "done": true
   },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-07-16 15:21:31 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/sniped": {
+  "minecraft:nether/root": {
     "criteria": {
-      "main": "2025-07-16 15:49:56 +0000"
+      "entered_nether": "2025-07-16 16:14:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -5775,6 +5836,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-16 15:49:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:00:50 +0000"
     },
     "done": true
   },
@@ -5808,6 +5875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-16 15:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
@@ -5838,6 +5911,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-16 16:02:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-07-16 15:22:50 +0000"
@@ -5847,6 +5926,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-16 16:05:24 +0000"
     },
     "done": true
   },
