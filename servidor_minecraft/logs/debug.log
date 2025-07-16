@@ -15636,3 +15636,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 15:29:53.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.11453628540039) to LOW (avg. 31.00581932067871)
 [16Jul2025 15:31:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Jiggity-Jig]
 [16Jul2025 15:31:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Jiggity-Jig]
+[16Jul2025 15:34:38.269] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:34:38.324] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:34:38.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:34:38.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:34:38.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.61907958984375) to NORMAL (avg. 41.44424819946289)
+[16Jul2025 15:34:53.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.44424819946289) to LOW (avg. 33.071189880371094)
+[16Jul2025 15:39:08.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.70057678222656) to NORMAL (avg. 43.068843841552734)
+[16Jul2025 15:39:38.270] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:39:38.332] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:39:38.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:39:38.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:39:39.027] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.94383239746094) to MEDIUM (avg. 48.845558166503906)
+[16Jul2025 15:39:54.238] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.04887008666992) to HIGH (avg. 51.62234115600586)
+[16Jul2025 15:40:24.998] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.64170837402344) to VERY_HIGH (avg. 56.916072845458984)
+[16Jul2025 15:40:33.253] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.916072845458984) to HIGH (avg. 53.90071105957031)
+[16Jul2025 15:40:34.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jul2025 15:40:50.761] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.90071105957031) to VERY_HIGH (avg. 57.7578125)
+[16Jul2025 15:40:51.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[16Jul2025 15:41:08.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[16Jul2025 15:41:26.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[16Jul2025 15:41:43.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[16Jul2025 15:42:01.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3197ms or 63 ticks behind
+[16Jul2025 15:42:17.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.05803680419922) to HIGH (avg. 52.57537078857422)
+[16Jul2025 15:42:18.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[16Jul2025 15:42:45.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jul2025 15:42:50.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1737434, l='ServerLevel[world]', x=-767.86, y=63.94, z=-140.86] died, message: 'Fisherman was sucked dry fighting Pancho'
+[16Jul2025 15:42:50.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.93717956542969) to VERY_HIGH (avg. 56.556175231933594)
+[16Jul2025 15:43:06.322] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.556175231933594) to HIGH (avg. 51.338775634765625)
+[16Jul2025 15:43:15.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jul2025 15:43:22.585] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.338775634765625) to VERY_HIGH (avg. 55.27802276611328)
+[16Jul2025 15:43:36.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.27802276611328) to LOW (avg. 37.923805236816406)
+[16Jul2025 15:43:59.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.72441101074219) to NORMAL (avg. 40.0364875793457)
+[16Jul2025 15:44:06.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.0364875793457) to LOW (avg. 39.964351654052734)
+[16Jul2025 15:44:14.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.964351654052734) to NORMAL (avg. 42.98529815673828)
