@@ -3062,3 +3062,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 17:04:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.106618881225586) to VERY_LOW (avg. 17.970335006713867)
 [16Jul2025 17:05:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.522449493408203) to LOW (avg. 22.07773208618164)
 [16Jul2025 17:05:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.07773208618164) to VERY_LOW (avg. 19.488872528076172)
+[16Jul2025 17:05:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.10483741760254) to LOW (avg. 20.101581573486328)
+[16Jul2025 17:06:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.101581573486328) to VERY_LOW (avg. 19.86871337890625)
+[16Jul2025 17:06:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.86871337890625) to LOW (avg. 20.985349655151367)
+[16Jul2025 17:06:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.895238876342773) to VERY_LOW (avg. 19.923294067382812)
+[16Jul2025 17:07:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.923294067382812) to LOW (avg. 22.521352767944336)
+[16Jul2025 17:07:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.521352767944336) to VERY_LOW (avg. 19.714448928833008)
+[16Jul2025 17:08:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.318883895874023) to LOW (avg. 20.483177185058594)
+[16Jul2025 17:08:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.483177185058594) to VERY_LOW (avg. 19.47682762145996)
+[16Jul2025 17:08:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.19553565979004) to LOW (avg. 20.126182556152344)
+[16Jul2025 17:09:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.8594970703125) to VERY_LOW (avg. 19.880720138549805)
+[16Jul2025 17:09:13.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[16Jul2025 17:09:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
