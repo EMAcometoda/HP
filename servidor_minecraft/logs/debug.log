@@ -16452,3 +16452,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 16:55:25.920] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [16Jul2025 16:55:25.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 16:55:25.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 16:56:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.178756713867188) to LOW (avg. 20.984416961669922)
+[16Jul2025 16:56:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.984416961669922) to VERY_LOW (avg. 19.68869400024414)
+[16Jul2025 16:56:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.68869400024414) to LOW (avg. 21.587890625)
+[16Jul2025 16:56:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.51841926574707) to VERY_LOW (avg. 19.09481430053711)
+[16Jul2025 16:56:55.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Voluntary Exile]
+[16Jul2025 16:57:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.249860763549805) to LOW (avg. 20.39678955078125)
+[16Jul2025 16:57:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.639293670654297) to VERY_LOW (avg. 19.708650588989258)
+[16Jul2025 16:59:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.211679458618164) to LOW (avg. 20.07442283630371)
+[16Jul2025 16:59:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.07442283630371) to VERY_LOW (avg. 19.689289093017578)
+[16Jul2025 16:59:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.689289093017578) to LOW (avg. 20.336688995361328)
+[16Jul2025 17:00:25.869] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 17:00:25.918] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 17:00:25.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:00:25.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:00:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.16481590270996) to VERY_LOW (avg. 19.761199951171875)
+[16Jul2025 17:01:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.761199951171875) to LOW (avg. 20.276836395263672)
+[16Jul2025 17:01:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.276836395263672) to VERY_LOW (avg. 18.78574562072754)
+[16Jul2025 17:02:11.830] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Jul2025 17:02:11.830] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Jul2025 17:02:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.2780818939209) to LOW (avg. 20.933820724487305)
+[16Jul2025 17:02:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.933820724487305) to VERY_LOW (avg. 18.852210998535156)
+[16Jul2025 17:03:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.29489517211914) to LOW (avg. 20.682573318481445)
+[16Jul2025 17:04:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.226947784423828) to VERY_LOW (avg. 19.56844139099121)
+[16Jul2025 17:04:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.878833770751953) to LOW (avg. 23.106618881225586)
+[16Jul2025 17:04:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.106618881225586) to VERY_LOW (avg. 17.970335006713867)
+[16Jul2025 17:05:25.871] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 17:05:25.921] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 17:05:25.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 17:05:25.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 17:05:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.522449493408203) to LOW (avg. 22.07773208618164)
+[16Jul2025 17:05:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.07773208618164) to VERY_LOW (avg. 19.488872528076172)
