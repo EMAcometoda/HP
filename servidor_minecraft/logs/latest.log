@@ -3018,3 +3018,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 16:41:46.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
 [16Jul2025 16:41:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
 [16Jul2025 16:41:46.046] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2025 16:48:12.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.122.215.88:64570] logged in with entity id 2805049 at (-888.7274577021553, 43.98307569674976, 324.1539800744091)
+[16Jul2025 16:48:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[16Jul2025 16:48:12.526] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/2805049, l='ServerLevel[world]', x=-888.73, y=43.98, z=324.15] logged in and will be protected for 90 secs.
+[16Jul2025 16:48:37.173] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 24 secs.
+[16Jul2025 16:48:37.173] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[16Jul2025 16:49:03.203] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-888, y=52, z=327}
+[16Jul2025 16:49:07.757] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-895, y=38, z=326}
+[16Jul2025 16:49:15.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Hot Stuff]
+[16Jul2025 16:49:48.348] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-886, y=47, z=322}
+[16Jul2025 16:52:11.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX burned to ashes
+[16Jul2025 16:52:24.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX lost connection: Timed out
+[16Jul2025 16:52:24.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX left the game
+[16Jul2025 16:53:15.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! -43.123406205214565,-23.0,19.997357941910025
+[16Jul2025 16:53:15.553] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-868, y=53, z=342}
+[16Jul2025 16:53:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.129133224487305) to VERY_LOW (avg. 19.665485382080078)
+[16Jul2025 16:53:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.665485382080078) to LOW (avg. 21.297683715820312)
+[16Jul2025 16:54:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.549274444580078) to VERY_LOW (avg. 19.65950584411621)
+[16Jul2025 16:54:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.258678436279297) to LOW (avg. 20.317562103271484)
+[16Jul2025 16:54:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.19762420654297) to VERY_LOW (avg. 19.556676864624023)
+[16Jul2025 16:55:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.556676864624023) to LOW (avg. 20.92376708984375)
+[16Jul2025 16:55:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.92376708984375) to VERY_LOW (avg. 19.68277359008789)
