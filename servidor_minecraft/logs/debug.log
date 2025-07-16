@@ -15536,3 +15536,72 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 15:13:20.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Pet Beginner]
 [16Jul2025 15:13:20.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Milky Way]
 [16Jul2025 15:13:50.637] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.03943634033203) to MEDIUM (avg. 47.31150817871094)
+[16Jul2025 15:13:58.125] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.31150817871094) to NORMAL (avg. 45.47508239746094)
+[16Jul2025 15:14:06.881] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.47508239746094) to MEDIUM (avg. 48.55235290527344)
+[16Jul2025 15:14:20.225] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:14:20.271] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:14:20.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:14:20.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:14:21.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.55235290527344) to VERY_HIGH (avg. 64.08206176757812)
+[16Jul2025 15:14:29.213] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.08206176757812) to HIGH (avg. 50.59424591064453)
+[16Jul2025 15:14:44.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jul2025 15:14:45.435] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.59424591064453) to VERY_HIGH (avg. 61.181060791015625)
+[16Jul2025 15:14:52.953] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.181060791015625) to HIGH (avg. 51.99253845214844)
+[16Jul2025 15:15:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Dragonslayer]
+[16Jul2025 15:15:08.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.99253845214844) to NORMAL (avg. 44.988704681396484)
+[16Jul2025 15:15:15.318] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1266939, l='ServerLevel[world]', x=-920.50, y=-23.00, z=305.50]
+[16Jul2025 15:15:30.419] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.918182373046875) to MEDIUM (avg. 47.91417694091797)
+[16Jul2025 15:15:52.623] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.29905700683594) to NORMAL (avg. 45.529823303222656)
+[16Jul2025 15:16:00.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.529823303222656) to MEDIUM (avg. 47.06032943725586)
+[16Jul2025 15:16:17.112] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.112] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.112] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.113] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.127] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.127] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.127] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.128] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:17.128] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:16:22.842] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.11190414428711) to HIGH (avg. 51.04557418823242)
+[16Jul2025 15:16:34.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Big and Bad]
+[16Jul2025 15:16:45.142] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.34592056274414) to MEDIUM (avg. 47.58245849609375)
+[16Jul2025 15:17:00.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.58245849609375) to NORMAL (avg. 44.49847412109375)
+[16Jul2025 15:17:22.651] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.43997573852539) to HIGH (avg. 49.921417236328125)
+[16Jul2025 15:17:38.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.26079559326172) to VERY_HIGH (avg. 61.540061950683594)
+[16Jul2025 15:17:46.054] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.540061950683594) to HIGH (avg. 51.832435607910156)
+[16Jul2025 15:18:16.227] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.64222717285156) to MEDIUM (avg. 47.263916015625)
+[16Jul2025 15:18:31.609] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.263916015625) to HIGH (avg. 53.96483612060547)
+[16Jul2025 15:18:43.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Jul2025 15:18:47.597] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.03958511352539) to VERY_HIGH (avg. 57.1843147277832)
+[16Jul2025 15:18:57.904] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:57.905] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:57.905] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:57.905] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:57.905] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:59.855] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:59.856] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:59.856] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:18:59.856] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:19:03.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Jul2025 15:19:04.217] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.1843147277832) to HIGH (avg. 54.197044372558594)
+[16Jul2025 15:19:19.170] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.197044372558594) to MEDIUM (avg. 46.454673767089844)
+[16Jul2025 15:19:26.181] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:19:26.235] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:19:26.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:19:26.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:19:56.878] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.69217300415039) to HIGH (avg. 52.154354095458984)
+[16Jul2025 15:20:18.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Jul2025 15:20:21.936] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.88471984863281) to VERY_HIGH (avg. 56.455963134765625)
+[16Jul2025 15:20:35.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[16Jul2025 15:20:38.922] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.455963134765625) to HIGH (avg. 53.6230354309082)
+[16Jul2025 15:21:08.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.97506332397461) to NORMAL (avg. 40.94374465942383)
+[16Jul2025 15:21:30.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.66211700439453) to MEDIUM (avg. 46.38059616088867)
+[16Jul2025 15:22:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho was frozen by a dragon
+[16Jul2025 15:22:07.914] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Pancho has new faction level vampirism:vampire 2
+[16Jul2025 15:22:23.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.35602569580078) to NORMAL (avg. 42.47764205932617)
+[16Jul2025 15:22:38.348] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.47764205932617) to MEDIUM (avg. 48.9176025390625)
+[16Jul2025 15:23:00.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.202056884765625) to NORMAL (avg. 45.489315032958984)
+[16Jul2025 15:23:08.327] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.489315032958984) to MEDIUM (avg. 46.281517028808594)
+[16Jul2025 15:23:24.783] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:23:38.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.079280853271484) to NORMAL (avg. 44.56179428100586)
+[16Jul2025 15:24:00.826] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.38570785522461) to MEDIUM (avg. 47.034912109375)

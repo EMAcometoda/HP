@@ -5366,6 +5366,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-16 15:14:41 +0000"
+    },
+    "done": true
+  },
   "inventorypets:brewingstand": {
     "criteria": {
       "crafting_table": "2025-07-16 15:05:10 +0000"
