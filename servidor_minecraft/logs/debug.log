@@ -15605,3 +15605,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 15:23:24.783] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [16Jul2025 15:23:38.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.079280853271484) to NORMAL (avg. 44.56179428100586)
 [16Jul2025 15:24:00.826] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.38570785522461) to MEDIUM (avg. 47.034912109375)
+[16Jul2025 15:24:16.219] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.936275482177734) to VERY_HIGH (avg. 57.59996795654297)
+[16Jul2025 15:24:31.505] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:24:31.556] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:24:31.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:24:31.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:24:32.332] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.59996795654297) to HIGH (avg. 53.17519760131836)
+[16Jul2025 15:24:46.349] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.17519760131836) to NORMAL (avg. 43.192893981933594)
+[16Jul2025 15:25:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Blood Feeders' Home]
+[16Jul2025 15:25:08.325] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.60436248779297) to MEDIUM (avg. 48.130558013916016)
+[16Jul2025 15:25:16.144] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.130558013916016) to HIGH (avg. 50.79995346069336)
+[16Jul2025 15:26:01.678] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Jul2025 15:26:01.678] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Jul2025 15:26:08.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Jul2025 15:27:04.007] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.6380615234375) to VERY_HIGH (avg. 62.41935729980469)
+[16Jul2025 15:27:12.305] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.41935729980469) to HIGH (avg. 51.46052169799805)
+[16Jul2025 15:27:19.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16Jul2025 15:27:43.802] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.905494689941406) to VERY_HIGH (avg. 55.270263671875)
+[16Jul2025 15:27:50.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jul2025 15:27:52.006] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.270263671875) to HIGH (avg. 53.997501373291016)
+[16Jul2025 15:28:07.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Jul2025 15:28:40.066] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.20794677734375) to MEDIUM (avg. 47.11077880859375)
+[16Jul2025 15:29:08.955] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.108821868896484) to NORMAL (avg. 44.858219146728516)
+[16Jul2025 15:29:31.342] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.248680114746094) to HIGH (avg. 50.026615142822266)
+[16Jul2025 15:29:38.270] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:29:38.334] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:29:38.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:29:38.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:29:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Snoozefest]
+[16Jul2025 15:29:53.823] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.11453628540039) to LOW (avg. 31.00581932067871)
+[16Jul2025 15:31:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Jiggity-Jig]
+[16Jul2025 15:31:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Jiggity-Jig]
