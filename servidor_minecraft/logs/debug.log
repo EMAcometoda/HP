@@ -17858,3 +17858,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 18:45:29.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.18085861206055) to MEDIUM (avg. 46.94560241699219)
 [16Jul2025 18:45:44.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.94560241699219) to LOW (avg. 24.63001251220703)
 [16Jul2025 18:45:51.198] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [5152f188-7024-4048-bdbf-cb6dd473a7c1]
+[16Jul2025 18:46:52.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[16Jul2025 18:46:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[16Jul2025 18:47:21.873] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.374286651611328) to VERY_LOW (avg. 19.6699275970459)
+[16Jul2025 18:47:29.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3231885, l='ServerLevel[world]', x=-865.59, y=62.85, z=235.51] died: Honeyed Archer suffocated in a wall
+[16Jul2025 18:47:51.873] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.446556091308594) to LOW (avg. 21.68182945251465)
+[16Jul2025 18:47:59.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.68182945251465) to VERY_LOW (avg. 19.03847312927246)
+[16Jul2025 18:48:29.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.910825729370117) to LOW (avg. 20.451461791992188)
+[16Jul2025 18:48:36.873] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.451461791992188) to VERY_LOW (avg. 17.975128173828125)
+[16Jul2025 18:50:28.768] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 18:50:28.824] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 18:50:28.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:50:28.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:50:29.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.721899032592773) to LOW (avg. 21.180042266845703)
+[16Jul2025 18:50:44.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.180042266845703) to VERY_LOW (avg. 18.782663345336914)
+[16Jul2025 18:53:44.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.153610229492188) to LOW (avg. 20.73971939086914)
+[16Jul2025 18:53:59.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.73971939086914) to VERY_LOW (avg. 18.3343448638916)
+[16Jul2025 18:55:28.765] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 18:55:28.816] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 18:55:28.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 18:55:28.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 18:55:29.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.00509262084961) to LOW (avg. 21.275226593017578)
+[16Jul2025 18:55:44.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.275226593017578) to VERY_LOW (avg. 18.977048873901367)

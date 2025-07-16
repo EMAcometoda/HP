@@ -955,10 +955,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-07-16 18:45:28 +0000",
       "log_spam_fixer": "2025-07-16 02:24:14 +0000"
     },
-    "done": true
+    "done": false
   },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
@@ -4890,6 +4889,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-16 18:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-16 18:46:04 +0000"
     },
     "done": true
   },
