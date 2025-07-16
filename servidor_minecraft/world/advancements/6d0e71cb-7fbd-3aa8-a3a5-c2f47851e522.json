@@ -1723,9 +1723,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-16 15:09:10 +0000",
       "log_spam_fixer": "2025-07-16 02:27:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -1747,6 +1748,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-16 15:07:04 +0000",
       "minecraft:birch_forest": "2025-07-16 04:19:15 +0000",
       "minecraft:windswept_hills": "2025-07-16 02:32:46 +0000",
       "minecraft:beach": "2025-07-16 03:56:21 +0000",
@@ -1754,6 +1756,8 @@
       "minecraft:river": "2025-07-16 02:31:21 +0000",
       "minecraft:stony_shore": "2025-07-16 15:03:10 +0000",
       "minecraft:dripstone_caves": "2025-07-16 04:05:06 +0000",
+      "minecraft:swamp": "2025-07-16 15:08:49 +0000",
+      "minecraft:cold_ocean": "2025-07-16 15:06:14 +0000",
       "minecraft:forest": "2025-07-16 02:46:38 +0000",
       "minecraft:ocean": "2025-07-16 04:27:41 +0000",
       "minecraft:windswept_savanna": "2025-07-16 03:20:10 +0000",
@@ -5343,6 +5347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-16 15:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-16 15:01:10 +0000"
@@ -5424,6 +5434,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-16 15:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-16 15:05:30 +0000"
     },
     "done": true
   },

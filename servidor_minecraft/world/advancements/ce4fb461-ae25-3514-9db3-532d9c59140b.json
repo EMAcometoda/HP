@@ -1749,6 +1749,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-16 13:36:53 +0000",
       "minecraft:taiga": "2025-07-16 13:36:39 +0000",
+      "minecraft:deep_ocean": "2025-07-16 15:07:08 +0000",
       "minecraft:sunflower_plains": "2025-07-16 05:50:09 +0000",
       "minecraft:cherry_grove": "2025-07-16 13:33:56 +0000",
       "minecraft:birch_forest": "2025-07-16 04:20:45 +0000",
@@ -5365,6 +5366,12 @@
     },
     "done": true
   },
+  "inventorypets:brewingstand": {
+    "criteria": {
+      "crafting_table": "2025-07-16 15:05:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_button": {
     "criteria": {
       "has_planks": "2025-07-16 13:37:03 +0000"
@@ -5374,6 +5381,12 @@
   "vampirism:recipes/redstone/dark_spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-16 13:37:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2025-07-16 15:05:10 +0000"
     },
     "done": true
   },
