@@ -3078,3 +3078,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 17:45:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
 [16Jul2025 17:45:21.497] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/2891864, l='ServerLevel[world]', x=-817.13, y=66.00, z=326.04] logged in and will be protected for 90 secs.
 [16Jul2025 17:45:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 3.353243112564087) to LOW (avg. 24.402873992919922)
+[16Jul2025 17:46:11.423] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 49 secs.
+[16Jul2025 17:46:11.423] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[16Jul2025 17:46:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.79728889465332) to VERY_LOW (avg. 19.732450485229492)
+[16Jul2025 17:47:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.732450485229492) to LOW (avg. 20.051334381103516)
+[16Jul2025 17:47:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.051334381103516) to VERY_LOW (avg. 19.248483657836914)
+[16Jul2025 17:48:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.7979679107666) to LOW (avg. 20.840333938598633)
+[16Jul2025 17:49:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.002573013305664) to VERY_LOW (avg. 19.615388870239258)
+[16Jul2025 17:49:56.626] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.615388870239258) to LOW (avg. 20.2078857421875)
+[16Jul2025 17:51:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.23804473876953) to VERY_LOW (avg. 19.486238479614258)
+[16Jul2025 17:51:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.486238479614258) to LOW (avg. 21.572261810302734)
+[16Jul2025 17:52:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.920774459838867) to VERY_LOW (avg. 19.659847259521484)
+[16Jul2025 17:52:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.43791389465332) to LOW (avg. 21.57465934753418)
+[16Jul2025 17:52:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.57465934753418) to VERY_LOW (avg. 19.896461486816406)
+[16Jul2025 17:53:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.896461486816406) to LOW (avg. 21.160276412963867)
+[16Jul2025 17:53:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.86479377746582) to VERY_LOW (avg. 19.401752471923828)
+[16Jul2025 17:54:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.4501953125) to LOW (avg. 20.16250991821289)
+[16Jul2025 17:54:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.16250991821289) to VERY_LOW (avg. 19.541259765625)
+[16Jul2025 17:54:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.541259765625) to LOW (avg. 21.758438110351562)
+[16Jul2025 17:55:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.00055694580078) to VERY_LOW (avg. 19.942630767822266)
+[16Jul2025 17:55:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.942630767822266) to LOW (avg. 23.920167922973633)
