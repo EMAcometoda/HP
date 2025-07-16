@@ -3074,3 +3074,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 17:09:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.8594970703125) to VERY_LOW (avg. 19.880720138549805)
 [16Jul2025 17:09:13.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
 [16Jul2025 17:09:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[16Jul2025 17:45:21.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.96.207.62:60955] logged in with entity id 2891864 at (-817.1333617167195, 66.0, 326.04126125095314)
+[16Jul2025 17:45:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[16Jul2025 17:45:21.497] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/2891864, l='ServerLevel[world]', x=-817.13, y=66.00, z=326.04] logged in and will be protected for 90 secs.
+[16Jul2025 17:45:26.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 3.353243112564087) to LOW (avg. 24.402873992919922)
