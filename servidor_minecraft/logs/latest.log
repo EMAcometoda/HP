@@ -2960,3 +2960,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 16:15:14.906] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [16Jul2025 16:15:14.907] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [16Jul2025 16:15:14.907] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 16:15:20.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Jul2025 16:15:23.738] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.714115142822266) to VERY_HIGH (avg. 65.91542053222656)
+[16Jul2025 16:15:31.820] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jul2025 16:15:31.850] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jul2025 16:15:39.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jul2025 16:15:41.735] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 13.361652269999999) to LOW (avg. 15.23179566)
+[16Jul2025 16:15:56.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[16Jul2025 16:16:21.096] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.51280975341797) to HIGH (avg. 53.315185546875)
+[16Jul2025 16:16:35.786] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.315185546875) to MEDIUM (avg. 46.43215560913086)
+[16Jul2025 16:16:47.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Doctor Kenneth the Unholy'/2336311, l='ServerLevel[world]', x=-39.56, y=58.00, z=26.30] died: Doctor Kenneth the Unholy was slain by panela_limon
+[16Jul2025 16:16:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [He Wasn't So Strong]
+[16Jul2025 16:16:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Cover Me with Diamonds]
+[16Jul2025 16:16:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Epic!]
+[16Jul2025 16:16:50.092] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.43215560913086) to NORMAL (avg. 44.13881301879883)
+[16Jul2025 16:16:57.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.13881301879883) to HIGH (avg. 50.892513275146484)
+[16Jul2025 16:17:20.023] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.34717559814453) to MEDIUM (avg. 46.29930114746094)
+[16Jul2025 16:18:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [Gambling Problem]
+[16Jul2025 16:19:05.023] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.59701919555664) to NORMAL (avg. 45.609745025634766)
+[16Jul2025 16:19:20.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.609745025634766) to MEDIUM (avg. 47.60416030883789)
+[16Jul2025 16:19:35.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.824161529541016) to HIGH (avg. 49.89452362060547)
+[16Jul2025 16:20:01.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Jul2025 16:20:08.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.07279586791992) to VERY_HIGH (avg. 63.62326431274414)
+[16Jul2025 16:20:20.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3717ms or 74 ticks behind
+[16Jul2025 16:20:34.665] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.137107849121094) to HIGH (avg. 53.489013671875)
+[16Jul2025 16:20:39.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16Jul2025 16:21:02.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jul2025 16:21:08.280] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.18763732910156) to VERY_HIGH (avg. 56.50232696533203)
+[16Jul2025 16:21:19.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[16Jul2025 16:21:32.926] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.258270263671875) to HIGH (avg. 52.269798278808594)
+[16Jul2025 16:21:45.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[16Jul2025 16:21:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.269798278808594) to LOW (avg. 36.985931396484375)
+[16Jul2025 16:22:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.36887741088867) to NORMAL (avg. 42.109554290771484)
+[16Jul2025 16:23:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.840633392333984) to LOW (avg. 39.9493408203125)
+[16Jul2025 16:23:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.48703384399414) to NORMAL (avg. 40.419158935546875)
+[16Jul2025 16:24:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.91144561767578) to LOW (avg. 38.54828643798828)
+[16Jul2025 16:24:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.54828643798828) to NORMAL (avg. 40.91743850708008)
+[16Jul2025 16:24:41.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.255245208740234) to LOW (avg. 38.5288200378418)
+[16Jul2025 16:25:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [Lucky Sevens]
+[16Jul2025 16:25:18.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.80484390258789) to NORMAL (avg. 40.34193801879883)
+[16Jul2025 16:25:26.647] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.34193801879883) to MEDIUM (avg. 46.176170349121094)
+[16Jul2025 16:25:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.176170349121094) to NORMAL (avg. 40.6058349609375)
+[16Jul2025 16:25:48.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.6058349609375) to LOW (avg. 39.287071228027344)
+[16Jul2025 16:26:03.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.287071228027344) to NORMAL (avg. 41.60159683227539)
+[16Jul2025 16:26:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.11055374145508) to LOW (avg. 39.11852264404297)
+[16Jul2025 16:26:41.484] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.11852264404297) to NORMAL (avg. 42.220069885253906)
+[16Jul2025 16:28:41.476] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.34382247924805) to MEDIUM (avg. 46.06541442871094)
+[16Jul2025 16:28:56.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.06541442871094) to LOW (avg. 38.07194519042969)
+[16Jul2025 16:29:11.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.07194519042969) to NORMAL (avg. 41.712135314941406)
+[16Jul2025 16:30:26.627] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.52824783325195) to MEDIUM (avg. 46.02354431152344)
+[16Jul2025 16:30:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.02354431152344) to NORMAL (avg. 45.62162399291992)
+[16Jul2025 16:31:32.460] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/2639830, l='ServerLevel[world]', x=-891.44, y=-35.00, z=342.36]
+[16Jul2025 16:33:19.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[16Jul2025 16:33:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[16Jul2025 16:33:33.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.928688049316406) to LOW (avg. 30.604354858398438)
