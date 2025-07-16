@@ -5374,6 +5374,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-16 14:29:28 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-16 13:37:03 +0000"

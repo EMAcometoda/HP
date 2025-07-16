@@ -14520,3 +14520,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 14:31:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.59012985229492) to LOW (avg. 37.08879089355469)
 [16Jul2025 14:31:49.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.08879089355469) to NORMAL (avg. 41.57794189453125)
 [16Jul2025 14:32:04.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.57794189453125) to LOW (avg. 34.7789421081543)
+[16Jul2025 14:33:26.509] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 14:33:26.559] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 14:33:26.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 14:33:26.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 14:33:27.153] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.07591247558594) to NORMAL (avg. 40.3045654296875)
+[16Jul2025 14:33:42.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.3045654296875) to LOW (avg. 36.42308044433594)
+[16Jul2025 14:33:42.661] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/670041, l='ServerLevel[world]', x=-925.50, y=-24.00, z=295.50]
+[16Jul2025 14:33:45.717] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 14:33:45.939] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 14:33:45.940] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 14:33:45.940] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 14:34:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[16Jul2025 14:34:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[16Jul2025 14:34:06.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[16Jul2025 14:34:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[16Jul2025 14:34:28.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/569468, l='ServerLevel[world]', x=-821.43, y=90.25, z=294.82] died: Honeyed Archer suffocated in a wall
+[16Jul2025 14:38:26.502] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 14:38:26.551] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 14:38:26.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 14:38:26.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
