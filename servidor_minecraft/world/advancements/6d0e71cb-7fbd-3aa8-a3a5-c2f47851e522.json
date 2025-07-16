@@ -2942,6 +2942,7 @@
       "minecraft:skeleton": "2025-07-16 02:37:48 +0000",
       "minecraft:vindicator": "2025-07-16 02:54:48 +0000",
       "minecraft:spider": "2025-07-16 15:12:05 +0000",
+      "minecraft:creeper": "2025-07-16 15:46:10 +0000",
       "minecraft:witch": "2025-07-16 02:54:59 +0000",
       "minecraft:zombie": "2025-07-16 03:21:02 +0000",
       "minecraft:drowned": "2025-07-16 03:50:03 +0000"
@@ -4893,12 +4894,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-07-16 04:26:32 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-16 04:29:49 +0000"
@@ -5285,6 +5280,24 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-16 15:43:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
@@ -5321,6 +5334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 15:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:01:10 +0000"
@@ -5344,6 +5363,12 @@
       "has_gravel": "2025-07-16 15:24:25 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -5441,6 +5466,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-16 15:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
@@ -5464,6 +5495,12 @@
       "crafting_table": "2025-07-16 15:13:20 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -5495,6 +5532,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
@@ -5506,6 +5549,12 @@
       "has_dragonscales_sapphire": "2025-07-16 15:22:52 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
@@ -5522,6 +5571,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 15:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 15:46:39 +0000"
     },
     "done": true
   },
@@ -5561,6 +5616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-16 15:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-16 15:01:10 +0000"
@@ -5585,9 +5646,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-16 15:49:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-07-16 15:22:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-16 15:46:39 +0000"
     },
     "done": true
   },
@@ -5596,6 +5669,12 @@
       "has_wood": "2025-07-16 15:01:05 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
@@ -5663,11 +5742,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-07-16 15:21:31 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -5681,9 +5772,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-16 15:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 15:18:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-16 15:49:56 +0000"
     },
     "done": true
   },

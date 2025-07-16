@@ -15670,3 +15670,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [16Jul2025 15:43:59.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.72441101074219) to NORMAL (avg. 40.0364875793457)
 [16Jul2025 15:44:06.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.0364875793457) to LOW (avg. 39.964351654052734)
 [16Jul2025 15:44:14.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.964351654052734) to NORMAL (avg. 42.98529815673828)
+[16Jul2025 15:44:50.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/689330, l='ServerLevel[world]', x=-814.64, y=72.00, z=534.30] died, message: 'Villager was sucked dry fighting Pancho'
+[16Jul2025 15:44:58.866] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:44:58.919] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:44:58.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:44:58.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:45:29.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.21229553222656) to LOW (avg. 39.478580474853516)
+[16Jul2025 15:45:59.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.09693145751953) to NORMAL (avg. 40.259578704833984)
+[16Jul2025 15:46:51.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.36029052734375) to LOW (avg. 39.447059631347656)
+[16Jul2025 15:47:21.923] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.045562744140625) to NORMAL (avg. 41.69688415527344)
+[16Jul2025 15:47:59.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.178184509277344) to LOW (avg. 38.8714599609375)
+[16Jul2025 15:48:14.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.8714599609375) to NORMAL (avg. 40.03162384033203)
+[16Jul2025 15:49:56.219] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: panela_limon has new faction level vampirism:vampire 1
+[16Jul2025 15:49:58.944] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[16Jul2025 15:49:59.001] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[16Jul2025 15:49:59.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 15:49:59.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 15:49:59.926] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.87690734863281) to VERY_HIGH (avg. 69.25921630859375)
+[16Jul2025 15:50:21.986] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.63666915893555) to NORMAL (avg. 45.768314361572266)
+[16Jul2025 15:52:51.943] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.66183090209961) to LOW (avg. 39.20161819458008)
+[16Jul2025 15:54:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Bloody Stream]
