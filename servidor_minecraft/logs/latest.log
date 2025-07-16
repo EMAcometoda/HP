@@ -2481,3 +2481,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 14:50:57.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.553016662597656) to NORMAL (avg. 42.075504302978516)
 [16Jul2025 14:51:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho was killed by Necromancer's magic missile
 [16Jul2025 14:51:19.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.11150360107422) to LOW (avg. 20.245494842529297)
+[16Jul2025 14:56:28.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.96.207.62:49840] logged in with entity id 894510 at (-822.0515463548936, 73.0, 322.08232867528153)
+[16Jul2025 14:56:29.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[16Jul2025 14:56:29.110] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/894510, l='ServerLevel[world]', x=-822.05, y=73.00, z=322.08] logged in and will be protected for 90 secs.
+[16Jul2025 14:56:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:gui.xaero-deathpoint:D:-3273:65:-611:0:false:0:Internal-overworld-waypoints
+[16Jul2025 14:56:57.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.61308670043945) to NORMAL (avg. 41.506385803222656)
+[16Jul2025 14:57:17.773] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 48 secs.
+[16Jul2025 14:57:17.773] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[16Jul2025 14:57:19.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.19615936279297) to LOW (avg. 38.872093200683594)
+[16Jul2025 14:58:27.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.67137145996094) to NORMAL (avg. 43.6961669921875)
+[16Jul2025 14:58:49.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.810787200927734) to LOW (avg. 39.444679260253906)
+[16Jul2025 14:59:12.101] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.91705322265625) to HIGH (avg. 51.54803466796875)
+[16Jul2025 14:59:19.759] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.54803466796875) to VERY_HIGH (avg. 57.428306579589844)
+[16Jul2025 14:59:21.138] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 47.66676071) to VERY_HIGH (avg. 50.63328931)
+[16Jul2025 14:59:43.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.005863189697266) to MEDIUM (avg. 46.57379913330078)
+[16Jul2025 14:59:58.243] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.57379913330078) to HIGH (avg. 49.922245025634766)
+[16Jul2025 15:00:05.503] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.922245025634766) to MEDIUM (avg. 48.363670349121094)
+[16Jul2025 15:00:07.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:gui.xaero-deathpoint:D:-3273:65:-611:0:false:0:Internal-overworld-waypoints
+[16Jul2025 15:00:12.840] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.363670349121094) to HIGH (avg. 50.728668212890625)
+[16Jul2025 15:00:21.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/936076, l='ServerLevel[world]', x=-778.30, y=66.00, z=-168.50] died, message: 'Farmer was sucked dry'
+[16Jul2025 15:00:27.073] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.728668212890625) to MEDIUM (avg. 46.99859619140625)
+[16Jul2025 15:00:31.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/937226, l='ServerLevel[world]', x=-781.90, y=66.00, z=-161.90] died, message: 'Farmer was sucked dry fighting Pancho'
+[16Jul2025 15:00:49.821] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.59708786010742) to HIGH (avg. 52.39216995239258)
+[16Jul2025 15:01:04.743] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.39216995239258) to NORMAL (avg. 43.81352233886719)
+[16Jul2025 15:01:15.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/788707, l='ServerLevel[world]', x=-865.58, y=107.41, z=331.35] died: Honeyed Archer burned to death
+[16Jul2025 15:01:19.811] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.81352233886719) to MEDIUM (avg. 47.93793487548828)
+[16Jul2025 15:01:31.757] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.757] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.758] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.758] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.862] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.863] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:31.863] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:34.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.93793487548828) to NORMAL (avg. 41.98598098754883)
+[16Jul2025 15:01:42.194] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:42.194] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:42.194] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:42.509] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:01:57.669] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.987247467041016) to HIGH (avg. 54.64720153808594)
+[16Jul2025 15:02:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Slippery When Wet]
+[16Jul2025 15:02:36.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Cooking with Nuggets]
+[16Jul2025 15:02:42.097] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.83785629272461) to MEDIUM (avg. 48.589176177978516)
+[16Jul2025 15:02:49.844] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.589176177978516) to HIGH (avg. 52.99742126464844)
+[16Jul2025 15:03:13.960] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.833656311035156) to VERY_HIGH (avg. 56.98707962036133)
+[16Jul2025 15:03:16.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jul2025 15:03:22.353] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.353] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.353] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.353] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.354] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.369] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.370] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.691] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.692] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.692] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.692] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.692] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.713] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.714] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.715] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:22.716] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:24.572] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:24.572] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:24.646] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:24.647] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 15:03:30.150] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.98707962036133) to MEDIUM (avg. 48.08755874633789)
+[16Jul2025 15:03:38.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind

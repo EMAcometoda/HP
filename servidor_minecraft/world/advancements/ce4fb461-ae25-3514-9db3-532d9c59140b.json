@@ -1754,7 +1754,10 @@
       "minecraft:birch_forest": "2025-07-16 04:20:45 +0000",
       "minecraft:windswept_hills": "2025-07-16 05:29:52 +0000",
       "minecraft:beach": "2025-07-16 04:31:42 +0000",
+      "minecraft:dark_forest": "2025-07-16 15:01:32 +0000",
+      "minecraft:mangrove_swamp": "2025-07-16 14:57:05 +0000",
       "minecraft:river": "2025-07-16 02:48:34 +0000",
+      "minecraft:stony_shore": "2025-07-16 15:03:12 +0000",
       "minecraft:swamp": "2025-07-16 05:44:16 +0000",
       "minecraft:cold_ocean": "2025-07-16 05:39:32 +0000",
       "minecraft:forest": "2025-07-16 03:19:24 +0000",
@@ -5332,9 +5335,21 @@
     },
     "done": true
   },
+  "inventorypets:furnace": {
+    "criteria": {
+      "crafting_table": "2025-07-16 15:02:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/dark_spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-16 13:37:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:squid": {
+    "criteria": {
+      "crafting_table": "2025-07-16 15:02:13 +0000"
     },
     "done": true
   },
